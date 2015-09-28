@@ -1,0 +1,160 @@
+		header {
+			background-image: url(images/campus.png);
+			background-position: center center;
+			text-align: center;
+			background-attachment: scroll;
+			background-repeat: none;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			background-size: cover;
+			-o-background-size: cover;
+			width:100%;
+			padding:20px;
+
+		}
+
+		#quote {
+			background-image: url(https://unsplash.com/photos/ssrbaKvxaos/download);
+			background-position: center;
+			text-align: center;
+			background-attachment: fixed;
+			background-repeat: none;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			background-size: cover;
+			-o-background-size: cover;
+			width:100%;
+			padding:20px;
+
+
+		}
+		#quote h1 {
+			color:white;
+			padding:100px;
+		}
+
+		iframe {
+			margin:30px;
+		}
+		section {
+
+		}
+
+		h1 {
+			font-family: 'Palanquin Dark', sans-serif;
+			color: #E27023;
+		} 
+
+
+		h2, h3, h4, h5 {
+			font-family: 'Palanquin Dark', sans-serif;
+			color: #27A9E1;
+		}
+
+		#board div div {
+			text-align: center;
+			margin-top:20px;
+		}
+		#board div div div h4{
+			color:black;
+		}
+
+		#board div div div a{
+			line-height: 60%;
+			color:black;
+		}
+
+
+		.innobluelogo {
+			width:150px;
+		}
+		.innobluewordmark {
+			width: 550px;
+
+		}
+
+		.img-circle {
+			width: 200px;
+			height: 200px;
+		}
+
+		#partners div div img {
+			max-width: 90%;
+		}
+
+		#logoArea div {
+			margin:50px 0;
+		}
+
+		#mentors div div div {
+			text-align: center;
+		}
+		#mentors div div div img {
+			width: 200px;
+			height: 200px;
+
+		}
+		.mentor  {
+			text-align: center;
+
+		}
+
+		footer {
+			margin-top: 50px;
+			background: #27A9E1;
+			color:white;
+			padding-bottom: 20px;
+			
+		}
+		footer ul li {
+			display: block;
+			line-height: 70%;
+		}
+
+		footer h3,h4 {
+			color:white;
+			margin-top: -10px;
+		}
+
+		header .container {
+			min-height:85vh;
+		}
+
+		.logoContainer div {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+		}
+		.logoContainer {
+
+			position: relative;
+			background: rgba(255,255,255,0.5);
+		}
+		.logoContainer h3{
+			color:black;
+		}
+		nav {
+			background: #E27023;
+			width: 100%;
+
+		}
+		
+		nav ul li {
+			display: inline-block;
+			padding:20px;
+		}
+
+		nav ul li h2 {
+			color:white;
+			text-transform: uppercase;
+		}
+		.event {
+			background-color:red;
+			background-position: center;
+			max-width:500px;
+
+		}
+		.event img {
+			width:100%;
+		}
